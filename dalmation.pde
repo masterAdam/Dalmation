@@ -1,4 +1,4 @@
-int count = 50;
+int count = 0;
 size(400,400);
 background(255);
 fill(0,255,255);
