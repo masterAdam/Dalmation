@@ -5,6 +5,6 @@ fill(0,255,255);
 
 while(count <= 101) {
   rect(random(width),random(height),15,15);
-  elipse(random(width),random(height),15,15);
+  ellipse(random(width),random(height),15,15);
   count++;
 }
